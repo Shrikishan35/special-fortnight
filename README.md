@@ -1,2 +1,0 @@
-# special-fortnight
-learning
